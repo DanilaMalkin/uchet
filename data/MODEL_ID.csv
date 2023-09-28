@@ -1,0 +1,192 @@
+MODEL_ID,Brand,Season,Type,Quantity,Price (USD)
+7712,Uniqlo,Winter,Jacket,135,120
+7713,Adidas,Any,Hoodie,325,60
+7714,Nike,Summer,Shorts,628,30
+7715,Gucci,Any,T-shirt,835,200
+7716,Givenchy,Winter,Coat,55,500
+7717,Prada,Any,Shirt,430,350
+7718,Balmain,Summer,Dress,789,380
+7719,Versace,Any,Pants,739,250
+7720,Fendi,Summer,Sandals,66,220
+7721,Off-White,Any,Hoodie,582,350
+7722,Moncler,Winter,Jacket,308,800
+7723,Balenciaga,Any,Sneakers,828,650
+7724,Saint Laurent,Any,T-shirt,621,290
+7725,Tommy Hilfiger,Summer,Shorts,775,40
+7726,Dolce & Gabbana,Any,Shirt,178,450
+7727,Chanel,Any,Dress,816,1800
+7728,Puma,Summer,T-shirt,60,25
+7729,H&M,Any,Jeans,161,35
+7730,Victoria's Secret,Any,Lingerie,473,45
+7731,Calvin Klein,Any,Underwear,458,20
+7732,Zara,Winter,Coat,567,200
+7733,Levi's,Any,Jeans,182,90
+7734,Ralph Lauren,Summer,Sweater,729,120
+7735,Herm_s,Any,Belt,329,850
+7736,Uniqlo,Any,Shorts,767,25
+7737,Uniqlo,Summer,Dress,496,55
+7738,Gucci,Any,T-shirt,74,280
+7739,Givenchy,Summer,Shorts,145,380
+7740,Nike,Any,Sneakers,535,110
+7741,Adidas,Winter,Hoodie,151,70
+7742,Gucci,Any,Coat,655,1200
+7743,Uniqlo,Any,Shirt,661,30
+7744,Uniqlo,Summer,Underwear,239,12
+7745,Gucci,Any,Skirt,128,2000
+7746,Givenchy,Summer,T-shirt,493,500
+7747,Nike,Summer,Pants,483,60
+7748,Adidas,Summer,Sneakers,615,150
+7749,Moncler,Any,Jacket,24,980
+7750,Balenciaga,Summer,Sandals,536,400
+7751,Saint Laurent,Any,T-shirt,583,350
+7752,Tommy Hilfiger,Any,Swimsuit,170,45
+7753,Dolce & Gabbana,Any,Shirt,516,420
+7754,Chanel,Any,Dress,775,1500
+7755,Puma,Summer,Shorts,429,35
+7756,H&M,Any,T-shirt,722,10
+7757,Victoria's Secret,Any,Lingerie,561,30
+7758,Calvin Klein,Any,Underwear,724,15
+7759,Zara,Winter,Coat,124,180
+7760,Levi's,Any,Jeans,143,60
+7761,Ralph Lauren,Summer,Sweater,535,120
+7762,Herm_s,Any,Belt,784,600
+7763,Uniqlo,Winter,Jacket,238,100
+7764,Adidas,Any,Hoodie,824,50
+7765,Nike,Summer,Shorts,825,25
+7766,Gucci,Any,T-shirt,656,250
+7767,Givenchy,Winter,Coat,689,600
+7768,Prada,Any,Shirt,594,400
+7769,Balmain,Summer,Dress,469,280
+7770,Versace,Any,Pants,456,200
+7771,Fendi,Summer,Sandals,313,180
+7772,Off-White,Any,Hoodie,244,320
+7773,Moncler,Winter,Jacket,712,700
+7774,Balenciaga,Any,Sneakers,561,550
+7775,Saint Laurent,Any,T-shirt,277,320
+7776,Tommy Hilfiger,Summer,Shorts,352,35
+7777,Dolce & Gabbana,Any,Shirt,756,400
+7778,Chanel,Any,Dress,62,1800
+7779,Puma,Summer,T-shirt,430,20
+7780,H&M,Any,Jeans,612,30
+7781,Victoria's Secret,Any,Lingerie,573,40
+7782,Calvin Klein,Any,Underwear,401,25
+7783,Zara,Winter,Coat,444,150
+7784,Levi's,Any,Jeans,609,50
+7785,Ralph Lauren,Summer,Sweater,32,100
+7786,Herm_s,Any,Belt,694,800
+7787,Uniqlo,Winter,Jacket,458,80
+7788,Adidas,Any,Hoodie,403,45
+7789,Nike,Summer,Shorts,310,20
+7790,Gucci,Any,T-shirt,356,200
+7791,Givenchy,Winter,Coat,712,550
+7792,Prada,Any,Shirt,451,350
+7793,Balmain,Summer,Dress,715,250
+7794,Versace,Any,Pants,64,180
+7795,Fendi,Summer,Sandals,460,150
+7796,Off-White,Any,Hoodie,133,280
+7797,Moncler,Winter,Jacket,550,600
+7798,Balenciaga,Any,Sneakers,307,480
+7799,Saint Laurent,Any,T-shirt,604,280
+7800,Tommy Hilfiger,Summer,Shorts,781,30
+7801,Dolce & Gabbana,Any,Shirt,56,350
+7802,Chanel,Any,Dress,116,1500
+7803,Puma,Summer,T-shirt,48,15
+7804,H&M,Any,Jeans,160,20
+7805,Victoria's Secret,Any,Lingerie,668,25
+7806,Calvin Klein,Any,Underwear,793,20
+7807,Zara,Winter,Coat,165,130
+7808,Levi's,Any,Jeans,407,40
+7809,Ralph Lauren,Summer,Sweater,341,80
+7810,Herm_s,Any,Belt,465,700
+7811,Uniqlo,Winter,Jacket,59,90
+7812,Adidas,Any,Hoodie,525,40
+7813,Nike,Summer,Shorts,397,15
+7814,Gucci,Any,T-shirt,121,180
+7815,Givenchy,Winter,Coat,691,480
+7816,Prada,Any,Shirt,581,300
+7817,Balmain,Summer,Dress,41,220
+7818,Versace,Any,Pants,154,160
+7819,Fendi,Summer,Sandals,35,130
+7820,Off-White,Any,Hoodie,561,240
+7821,Moncler,Winter,Jacket,482,500
+7822,Balenciaga,Any,Sneakers,618,400
+7823,Saint Laurent,Any,T-shirt,289,240
+7824,Tommy Hilfiger,Summer,Shorts,781,25
+7825,Dolce & Gabbana,Any,Shirt,155,300
+7826,Chanel,Any,Dress,611,1300
+7827,Puma,Summer,T-shirt,424,12
+7828,H&M,Any,Jeans,576,15
+7829,Victoria's Secret,Any,Lingerie,667,20
+7830,Calvin Klein,Any,Underwear,641,15
+7831,Zara,Winter,Coat,545,120
+7832,Levi's,Any,Jeans,560,30
+7833,Ralph Lauren,Summer,Sweater,555,60
+7834,Herm_s,Any,Belt,678,600
+7835,Uniqlo,Winter,Jacket,257,70
+7836,Adidas,Any,Hoodie,212,35
+7837,Nike,Summer,Shorts,284,12
+7838,Gucci,Any,T-shirt,623,160
+7839,Givenchy,Winter,Coat,801,400
+7840,Prada,Any,Shirt,190,250
+7841,Balmain,Summer,Dress,114,180
+7842,Versace,Any,Pants,348,120
+7843,Fendi,Summer,Sandals,158,100
+7844,Off-White,Any,Hoodie,742,200
+7845,Moncler,Winter,Jacket,763,400
+7846,Balenciaga,Any,Sneakers,586,320
+7847,Saint Laurent,Any,T-shirt,559,200
+7848,Tommy Hilfiger,Summer,Shorts,618,20
+7849,Dolce & Gabbana,Any,Shirt,316,250
+7850,Chanel,Any,Dress,119,1200
+7851,Puma,Summer,T-shirt,79,10
+7852,H&M,Any,Jeans,302,12
+7853,Victoria's Secret,Any,Lingerie,47,15
+7854,Calvin Klein,Any,Underwear,833,12
+7855,Zara,Winter,Coat,532,110
+7856,Levi's,Any,Jeans,442,25
+7857,Ralph Lauren,Summer,Sweater,28,50
+7858,Herm_s,Any,Belt,652,500
+7859,Uniqlo,Winter,Jacket,671,60
+7860,Adidas,Any,Hoodie,234,30
+7861,Nike,Summer,Shorts,56,10
+7862,Gucci,Any,T-shirt,474,150
+7863,Givenchy,Winter,Coat,148,350
+7864,Prada,Any,Shirt,737,200
+7865,Balmain,Summer,Dress,34,150
+7866,Versace,Any,Pants,296,100
+7867,Fendi,Summer,Sandals,94,80
+7868,Off-White,Any,Hoodie,131,160
+7869,Moncler,Winter,Jacket,810,300
+7870,Balenciaga,Any,Sneakers,566,250
+7871,Saint Laurent,Any,T-shirt,783,160
+7872,Tommy Hilfiger,Summer,Shorts,204,15
+7873,Dolce & Gabbana,Any,Shirt,357,200
+7874,Chanel,Any,Dress,248,1000
+7875,Puma,Summer,T-shirt,422,8
+7876,H&M,Any,Jeans,170,10
+7877,Victoria's Secret,Any,Lingerie,325,12
+7878,Calvin Klein,Any,Underwear,329,10
+7879,Zara,Winter,Coat,188,100
+7880,Levi's,Any,Jeans,222,20
+7881,Ralph Lauren,Summer,Sweater,167,40
+7882,Herm_s,Any,Belt,150,400
+7883,Uniqlo,Winter,Jacket,177,50
+7884,Adidas,Any,Hoodie,776,25
+7885,Nike,Summer,Shorts,51,8
+7886,Gucci,Any,T-shirt,374,120
+7887,Givenchy,Winter,Coat,617,300
+7888,Prada,Any,Shirt,567,180
+7889,Balmain,Summer,Dress,100,130
+7890,Versace,Any,Pants,758,80
+7891,Fendi,Summer,Sandals,587,65
+7892,Off-White,Any,Hoodie,354,120
+7893,Moncler,Winter,Jacket,750,250
+7894,Balenciaga,Any,Sneakers,78,200
+7895,Saint Laurent,Any,T-shirt,784,120
+7896,Tommy Hilfiger,Summer,Shorts,359,12
+7897,Dolce & Gabbana,Any,Shirt,190,180
+7898,Chanel,Any,Dress,436,800
+7899,Puma,Summer,T-shirt,84,6
+7900,H&M,Any,Jeans,67,8
+7901,Victoria's Secret,Any,Lingerie,732,10
+7902,Calvin Klein,Any,Underwear,391,8
