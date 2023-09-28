@@ -1,0 +1,192 @@
+MODEL_ID,Brand,Season,Type,Quantity,Price (USD),Location,Category,Discount
+7712,Uniqlo,Winter,Jacket,135,120,Japan,massmarket,20
+7713,Adidas,Any,Hoodie,325,60,Germany,sport,5
+7714,Nike,Summer,Shorts,628,30,USA,sport,15
+7715,Gucci,Any,T-shirt,835,200,Italy,lux,5
+7716,Givenchy,Winter,Coat,55,500,Italy,lux,20
+7717,Prada,Any,Shirt,430,350,Italy,lux,5
+7718,Balmain,Summer,Dress,789,380,France,lux,15
+7719,Versace,Any,Pants,739,250,Italy,lux,5
+7720,Fendi,Summer,Sandals,66,220,Italy,lux,15
+7721,Off-White,Any,Hoodie,582,350,Italy,lux,5
+7722,Moncler,Winter,Jacket,308,800,Italy,lux,20
+7723,Balenciaga,Any,Sneakers,828,650,France,lux,5
+7724,Saint Laurent,Any,T-shirt,621,290,France,lux,5
+7725,Tommy Hilfiger,Summer,Shorts,775,40,USA,massmarket,15
+7726,Dolce & Gabbana,Any,Shirt,178,450,Italy,lux,5
+7727,Chanel,Any,Dress,816,1800,France,lux,5
+7728,Puma,Summer,T-shirt,60,25,Germany,sport,15
+7729,H&M,Any,Jeans,161,35,Sweden,massmarket,5
+7730,Victoria's Secret,Any,Lingerie,473,45,USA,lux,5
+7731,Calvin Klein,Any,Underwear,458,20,USA,lux,5
+7732,Zara,Winter,Coat,567,200,Spain,massmarket,20
+7733,Levi's,Any,Jeans,182,90,USA,massmarket,5
+7734,Ralph Lauren,Summer,Sweater,729,120,USA,lux,15
+7735,Herm_s,Any,Belt,329,850,,,5
+7736,Uniqlo,Any,Shorts,767,25,Japan,massmarket,5
+7737,Uniqlo,Summer,Dress,496,55,Japan,massmarket,15
+7738,Gucci,Any,T-shirt,74,280,Italy,lux,5
+7739,Givenchy,Summer,Shorts,145,380,Italy,lux,15
+7740,Nike,Any,Sneakers,535,110,USA,sport,5
+7741,Adidas,Winter,Hoodie,151,70,Germany,sport,20
+7742,Gucci,Any,Coat,655,1200,Italy,lux,5
+7743,Uniqlo,Any,Shirt,661,30,Japan,massmarket,5
+7744,Uniqlo,Summer,Underwear,239,12,Japan,massmarket,15
+7745,Gucci,Any,Skirt,128,2000,Italy,lux,5
+7746,Givenchy,Summer,T-shirt,493,500,Italy,lux,15
+7747,Nike,Summer,Pants,483,60,USA,sport,15
+7748,Adidas,Summer,Sneakers,615,150,Germany,sport,15
+7749,Moncler,Any,Jacket,24,980,Italy,lux,5
+7750,Balenciaga,Summer,Sandals,536,400,France,lux,15
+7751,Saint Laurent,Any,T-shirt,583,350,France,lux,5
+7752,Tommy Hilfiger,Any,Swimsuit,170,45,USA,massmarket,5
+7753,Dolce & Gabbana,Any,Shirt,516,420,Italy,lux,5
+7754,Chanel,Any,Dress,775,1500,France,lux,5
+7755,Puma,Summer,Shorts,429,35,Germany,sport,15
+7756,H&M,Any,T-shirt,722,10,Sweden,massmarket,5
+7757,Victoria's Secret,Any,Lingerie,561,30,USA,lux,5
+7758,Calvin Klein,Any,Underwear,724,15,USA,lux,5
+7759,Zara,Winter,Coat,124,180,Spain,massmarket,20
+7760,Levi's,Any,Jeans,143,60,USA,massmarket,5
+7761,Ralph Lauren,Summer,Sweater,535,120,USA,lux,15
+7762,Herm_s,Any,Belt,784,600,,,5
+7763,Uniqlo,Winter,Jacket,238,100,Japan,massmarket,20
+7764,Adidas,Any,Hoodie,824,50,Germany,sport,5
+7765,Nike,Summer,Shorts,825,25,USA,sport,15
+7766,Gucci,Any,T-shirt,656,250,Italy,lux,5
+7767,Givenchy,Winter,Coat,689,600,Italy,lux,20
+7768,Prada,Any,Shirt,594,400,Italy,lux,5
+7769,Balmain,Summer,Dress,469,280,France,lux,15
+7770,Versace,Any,Pants,456,200,Italy,lux,5
+7771,Fendi,Summer,Sandals,313,180,Italy,lux,15
+7772,Off-White,Any,Hoodie,244,320,Italy,lux,5
+7773,Moncler,Winter,Jacket,712,700,Italy,lux,20
+7774,Balenciaga,Any,Sneakers,561,550,France,lux,5
+7775,Saint Laurent,Any,T-shirt,277,320,France,lux,5
+7776,Tommy Hilfiger,Summer,Shorts,352,35,USA,massmarket,15
+7777,Dolce & Gabbana,Any,Shirt,756,400,Italy,lux,5
+7778,Chanel,Any,Dress,62,1800,France,lux,5
+7779,Puma,Summer,T-shirt,430,20,Germany,sport,15
+7780,H&M,Any,Jeans,612,30,Sweden,massmarket,5
+7781,Victoria's Secret,Any,Lingerie,573,40,USA,lux,5
+7782,Calvin Klein,Any,Underwear,401,25,USA,lux,5
+7783,Zara,Winter,Coat,444,150,Spain,massmarket,20
+7784,Levi's,Any,Jeans,609,50,USA,massmarket,5
+7785,Ralph Lauren,Summer,Sweater,32,100,USA,lux,15
+7786,Herm_s,Any,Belt,694,800,,,5
+7787,Uniqlo,Winter,Jacket,458,80,Japan,massmarket,20
+7788,Adidas,Any,Hoodie,403,45,Germany,sport,5
+7789,Nike,Summer,Shorts,310,20,USA,sport,15
+7790,Gucci,Any,T-shirt,356,200,Italy,lux,5
+7791,Givenchy,Winter,Coat,712,550,Italy,lux,20
+7792,Prada,Any,Shirt,451,350,Italy,lux,5
+7793,Balmain,Summer,Dress,715,250,France,lux,15
+7794,Versace,Any,Pants,64,180,Italy,lux,5
+7795,Fendi,Summer,Sandals,460,150,Italy,lux,15
+7796,Off-White,Any,Hoodie,133,280,Italy,lux,5
+7797,Moncler,Winter,Jacket,550,600,Italy,lux,20
+7798,Balenciaga,Any,Sneakers,307,480,France,lux,5
+7799,Saint Laurent,Any,T-shirt,604,280,France,lux,5
+7800,Tommy Hilfiger,Summer,Shorts,781,30,USA,massmarket,15
+7801,Dolce & Gabbana,Any,Shirt,56,350,Italy,lux,5
+7802,Chanel,Any,Dress,116,1500,France,lux,5
+7803,Puma,Summer,T-shirt,48,15,Germany,sport,15
+7804,H&M,Any,Jeans,160,20,Sweden,massmarket,5
+7805,Victoria's Secret,Any,Lingerie,668,25,USA,lux,5
+7806,Calvin Klein,Any,Underwear,793,20,USA,lux,5
+7807,Zara,Winter,Coat,165,130,Spain,massmarket,20
+7808,Levi's,Any,Jeans,407,40,USA,massmarket,5
+7809,Ralph Lauren,Summer,Sweater,341,80,USA,lux,15
+7810,Herm_s,Any,Belt,465,700,,,5
+7811,Uniqlo,Winter,Jacket,59,90,Japan,massmarket,20
+7812,Adidas,Any,Hoodie,525,40,Germany,sport,5
+7813,Nike,Summer,Shorts,397,15,USA,sport,15
+7814,Gucci,Any,T-shirt,121,180,Italy,lux,5
+7815,Givenchy,Winter,Coat,691,480,Italy,lux,20
+7816,Prada,Any,Shirt,581,300,Italy,lux,5
+7817,Balmain,Summer,Dress,41,220,France,lux,15
+7818,Versace,Any,Pants,154,160,Italy,lux,5
+7819,Fendi,Summer,Sandals,35,130,Italy,lux,15
+7820,Off-White,Any,Hoodie,561,240,Italy,lux,5
+7821,Moncler,Winter,Jacket,482,500,Italy,lux,20
+7822,Balenciaga,Any,Sneakers,618,400,France,lux,5
+7823,Saint Laurent,Any,T-shirt,289,240,France,lux,5
+7824,Tommy Hilfiger,Summer,Shorts,781,25,USA,massmarket,15
+7825,Dolce & Gabbana,Any,Shirt,155,300,Italy,lux,5
+7826,Chanel,Any,Dress,611,1300,France,lux,5
+7827,Puma,Summer,T-shirt,424,12,Germany,sport,15
+7828,H&M,Any,Jeans,576,15,Sweden,massmarket,5
+7829,Victoria's Secret,Any,Lingerie,667,20,USA,lux,5
+7830,Calvin Klein,Any,Underwear,641,15,USA,lux,5
+7831,Zara,Winter,Coat,545,120,Spain,massmarket,20
+7832,Levi's,Any,Jeans,560,30,USA,massmarket,5
+7833,Ralph Lauren,Summer,Sweater,555,60,USA,lux,15
+7834,Herm_s,Any,Belt,678,600,,,5
+7835,Uniqlo,Winter,Jacket,257,70,Japan,massmarket,20
+7836,Adidas,Any,Hoodie,212,35,Germany,sport,5
+7837,Nike,Summer,Shorts,284,12,USA,sport,15
+7838,Gucci,Any,T-shirt,623,160,Italy,lux,5
+7839,Givenchy,Winter,Coat,801,400,Italy,lux,20
+7840,Prada,Any,Shirt,190,250,Italy,lux,5
+7841,Balmain,Summer,Dress,114,180,France,lux,15
+7842,Versace,Any,Pants,348,120,Italy,lux,5
+7843,Fendi,Summer,Sandals,158,100,Italy,lux,15
+7844,Off-White,Any,Hoodie,742,200,Italy,lux,5
+7845,Moncler,Winter,Jacket,763,400,Italy,lux,20
+7846,Balenciaga,Any,Sneakers,586,320,France,lux,5
+7847,Saint Laurent,Any,T-shirt,559,200,France,lux,5
+7848,Tommy Hilfiger,Summer,Shorts,618,20,USA,massmarket,15
+7849,Dolce & Gabbana,Any,Shirt,316,250,Italy,lux,5
+7850,Chanel,Any,Dress,119,1200,France,lux,5
+7851,Puma,Summer,T-shirt,79,10,Germany,sport,15
+7852,H&M,Any,Jeans,302,12,Sweden,massmarket,5
+7853,Victoria's Secret,Any,Lingerie,47,15,USA,lux,5
+7854,Calvin Klein,Any,Underwear,833,12,USA,lux,5
+7855,Zara,Winter,Coat,532,110,Spain,massmarket,20
+7856,Levi's,Any,Jeans,442,25,USA,massmarket,5
+7857,Ralph Lauren,Summer,Sweater,28,50,USA,lux,15
+7858,Herm_s,Any,Belt,652,500,,,5
+7859,Uniqlo,Winter,Jacket,671,60,Japan,massmarket,20
+7860,Adidas,Any,Hoodie,234,30,Germany,sport,5
+7861,Nike,Summer,Shorts,56,10,USA,sport,15
+7862,Gucci,Any,T-shirt,474,150,Italy,lux,5
+7863,Givenchy,Winter,Coat,148,350,Italy,lux,20
+7864,Prada,Any,Shirt,737,200,Italy,lux,5
+7865,Balmain,Summer,Dress,34,150,France,lux,15
+7866,Versace,Any,Pants,296,100,Italy,lux,5
+7867,Fendi,Summer,Sandals,94,80,Italy,lux,15
+7868,Off-White,Any,Hoodie,131,160,Italy,lux,5
+7869,Moncler,Winter,Jacket,810,300,Italy,lux,20
+7870,Balenciaga,Any,Sneakers,566,250,France,lux,5
+7871,Saint Laurent,Any,T-shirt,783,160,France,lux,5
+7872,Tommy Hilfiger,Summer,Shorts,204,15,USA,massmarket,15
+7873,Dolce & Gabbana,Any,Shirt,357,200,Italy,lux,5
+7874,Chanel,Any,Dress,248,1000,France,lux,5
+7875,Puma,Summer,T-shirt,422,8,Germany,sport,15
+7876,H&M,Any,Jeans,170,10,Sweden,massmarket,5
+7877,Victoria's Secret,Any,Lingerie,325,12,USA,lux,5
+7878,Calvin Klein,Any,Underwear,329,10,USA,lux,5
+7879,Zara,Winter,Coat,188,100,Spain,massmarket,20
+7880,Levi's,Any,Jeans,222,20,USA,massmarket,5
+7881,Ralph Lauren,Summer,Sweater,167,40,USA,lux,15
+7882,Herm_s,Any,Belt,150,400,,,5
+7883,Uniqlo,Winter,Jacket,177,50,Japan,massmarket,20
+7884,Adidas,Any,Hoodie,776,25,Germany,sport,5
+7885,Nike,Summer,Shorts,51,8,USA,sport,15
+7886,Gucci,Any,T-shirt,374,120,Italy,lux,5
+7887,Givenchy,Winter,Coat,617,300,Italy,lux,20
+7888,Prada,Any,Shirt,567,180,Italy,lux,5
+7889,Balmain,Summer,Dress,100,130,France,lux,15
+7890,Versace,Any,Pants,758,80,Italy,lux,5
+7891,Fendi,Summer,Sandals,587,65,Italy,lux,15
+7892,Off-White,Any,Hoodie,354,120,Italy,lux,5
+7893,Moncler,Winter,Jacket,750,250,Italy,lux,20
+7894,Balenciaga,Any,Sneakers,78,200,France,lux,5
+7895,Saint Laurent,Any,T-shirt,784,120,France,lux,5
+7896,Tommy Hilfiger,Summer,Shorts,359,12,USA,massmarket,15
+7897,Dolce & Gabbana,Any,Shirt,190,180,Italy,lux,5
+7898,Chanel,Any,Dress,436,800,France,lux,5
+7899,Puma,Summer,T-shirt,84,6,Germany,sport,15
+7900,H&M,Any,Jeans,67,8,Sweden,massmarket,5
+7901,Victoria's Secret,Any,Lingerie,732,10,USA,lux,5
+7902,Calvin Klein,Any,Underwear,391,8,USA,lux,5
